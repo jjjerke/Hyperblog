@@ -6,4 +6,8 @@ pero bueno...
 
 haremos un cambio de vida para mejorar.
 
+<<<<<<< HEAD
 chau.
+=======
+Mañana nos enfocaremos en la vida laborarl
+>>>>>>> cabecera
